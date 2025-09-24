@@ -1,0 +1,28 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Test_Installation",
+    "collectionId": "23005e13-e2cf-4807-9ce1-400d2d713a5d",
+    "dateExported": "2025-09-24T05:27:42.621Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "78bff46c-abb8-4b61-8d34-9ca5206539e4",
+            "colId": "23005e13-e2cf-4807-9ce1-400d2d713a5d",
+            "containerId": "",
+            "name": "Test_Installation",
+            "url": "http://localhost:5001/extract-text",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2025-09-24T05:27:30.027Z",
+            "modified": "2025-09-24T05:27:30.027Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n     \"image\": \"\"\r\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "vmVlH-tKqetgaFXQ7CRuRXHnSWWCSdNoyCNJy4Z8zrcZQVvn4qq-aB7yjzveZ56NnA6mzS4gD1Hrh7xrx7ofww"
+}
